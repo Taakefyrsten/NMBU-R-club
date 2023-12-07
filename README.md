@@ -43,5 +43,4 @@ When working with most types of data these 4 packages will let you wrangle all y
 ![lubridate cheat sheet](https://rstudio.github.io/cheatsheets/pngs/lubridate.png)
 
 - Pivoting
-  - [Data Journalism with R - Storybench tidyr pivoting](https://www.rpubs.com/mjfrigaard/pivoting) (💬 quite complicated as a source)
-- Filtering
+  - [Data Journalism with R - Storybench tidyr pivoting](https://www.rpubs.com/mjfrigaard/pivoting) (💬 quite complicated)
