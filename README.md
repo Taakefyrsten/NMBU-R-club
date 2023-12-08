@@ -6,15 +6,17 @@ The R-club is held every wednesday from 12:00 - 14:00 at Sørhellinga [(S124)](h
 - R-club on canvas (💬 not yet linked)
 - [R-club on twitter (defunct)](https://twitter.com/nmbu_r)
 
-## Resources
-- ### Basic information on statistics
-	- [Statlearning - Longer E-book on statistics](https://www.statlearning.com/)
-  - [Fundamentals of data visualization](https://clauswilke.com/dataviz/)
-- ### R cheat sheets
-  - [LARGE set of cheat sheets collected by the people behind R-studio](https://rstudio.github.io/cheatsheets/) (💬 Several other resources in this collection are from here)
-- ### Books on R
-	- [Hands on programming with R](https://rstudio-education.github.io/hopr/)
-	- [R for Data Science](https://r4ds.had.co.nz/)
+# Resources
+## Basic information on statistics
+- [Statlearning - Longer E-book on statistics](https://www.statlearning.com/)
+- [Fundamentals of data visualization](https://clauswilke.com/dataviz/)
+
+## R cheat sheets
+- [LARGE set of cheat sheets collected by the people behind R-studio](https://rstudio.github.io/cheatsheets/) (💬 Several other resources in this collection are from here)
+
+## Books on R
+- [Hands on programming with R](https://rstudio-education.github.io/hopr/)
+- [R for Data Science](https://r4ds.had.co.nz/)
 
 ## Loading data
 - 🟥 Using R-studios integrated loader for excel and csv files
