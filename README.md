@@ -27,7 +27,7 @@ The R-club is held every wednesday from 12:00 - 14:00 at Sørhellinga [(S124)](h
 - [R Charts - Graphs grouped by use](https://r-charts.com/)
 - [R-coder - plotting with base R](https://r-coder.com/r-graphs/)   
 - GGplot specific
-  - ![ggplot cheat sheet](https://rstudio.github.io/cheatsheets/pngs/data-visualization.png)
+  - [![ggplot cheat sheet](https://rstudio.github.io/cheatsheets/pngs/data-visualization.png)](https://rstudio.github.io/cheatsheets/html/data-visualization.html)
   - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html)
 - [Colors in R](https://rpubs.com/kylewbrown/r-colors)
 - 🟥 Exporting graphs
@@ -36,13 +36,13 @@ The R-club is held every wednesday from 12:00 - 14:00 at Sørhellinga [(S124)](h
 ## Working with data
 When working with most types of data these 4 packages will let you wrangle all your data into workable formats.
 ### DPLYR 🔧
-![DPLYR cheat sheet](https://rstudio.github.io/cheatsheets/pngs/data-transformation.png)
+[![DPLYR cheat sheet](https://rstudio.github.io/cheatsheets/pngs/data-transformation.png)](https://rstudio.github.io/cheatsheets/html/data-transformation.html)
 ### TIDYR ✒️
-![TIDYR cheat sheet](https://rstudio.github.io/cheatsheets/pngs/tidyr.png)
+[![TIDYR cheat sheet](https://rstudio.github.io/cheatsheets/pngs/tidyr.png)](https://rstudio.github.io/cheatsheets/html/tidyr.html)
 ### FORCATS 😻
-![FORCATS cheat sheet](https://rstudio.github.io/cheatsheets/pngs/factors.png)
+[![FORCATS cheat sheet](https://rstudio.github.io/cheatsheets/pngs/factors.png)](https://rstudio.github.io/cheatsheets/html/factors.html)
 ### lubridate 🗓️
-![lubridate cheat sheet](https://rstudio.github.io/cheatsheets/pngs/lubridate.png)
+[![lubridate cheat sheet](https://rstudio.github.io/cheatsheets/pngs/lubridate.png)](https://rstudio.github.io/cheatsheets/html/lubridate.html)
 
 - Pivoting
   - [Data Journalism with R - Storybench tidyr pivoting](https://www.rpubs.com/mjfrigaard/pivoting) (💬 quite complicated)
