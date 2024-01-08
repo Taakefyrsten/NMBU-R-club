@@ -45,4 +45,7 @@ When working with most types of data these 4 packages will let you wrangle all y
 [![lubridate cheat sheet](https://rstudio.github.io/cheatsheets/pngs/lubridate.png)](https://rstudio.github.io/cheatsheets/html/lubridate.html)
 
 - Pivoting
+  - [Epirhandbook, a easy to read explination of pivoting](https://epirhandbook.com/en/pivoting-data.html#pivoting-data)
+    - [![Pivot longer](https://epirhandbook.com/en/images/pivoting/pivot_longer_new.png)](https://epirhandbook.com/en/pivoting-data.html#wide-to-long)
+    - [![Pivot wider](https://epirhandbook.com/en/images/pivoting/pivot_wider_new.png)](https://epirhandbook.com/en/pivoting-data.html#long-to-wide)
   - [Data Journalism with R - Storybench tidyr pivoting](https://www.rpubs.com/mjfrigaard/pivoting) (💬 quite complicated)
