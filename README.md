@@ -4,7 +4,9 @@ The R-club is held every wednesday from 12:00 - 14:00 at Sørhellinga [(S124)](h
  
 ## R-club on other platforms
 - R-club on canvas (💬 not yet linked)
+- [R-club facebook page! Cancellations, etc](https://www.facebook.com/groups/1398638660751995/)
 - [R-club on twitter (defunct)](https://twitter.com/nmbu_r)
+
 
 # Resources
 ## Basic information on statistics
