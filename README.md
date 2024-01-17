@@ -26,6 +26,7 @@ The R-club is held every wednesday from 12:00 - 14:00 at Sørhellinga [(S124)](h
 
 ## Graphs in R
 - [R Graph gallery - Graphs grouped by type](https://r-graph-gallery.com/index.html)
+- [Unsure about what graph to use? Here are the graphs grouped by data type! (Data to viz)](https://www.data-to-viz.com/)
 - [R Charts - Graphs grouped by use](https://r-charts.com/)
 - [R-coder - plotting with base R](https://r-coder.com/r-graphs/)   
 - GGplot specific
@@ -39,6 +40,7 @@ The R-club is held every wednesday from 12:00 - 14:00 at Sørhellinga [(S124)](h
 When working with most types of data these 4 packages will let you wrangle all your data into workable formats.
 ### DPLYR 🔧
 [![DPLYR cheat sheet](https://rstudio.github.io/cheatsheets/pngs/data-transformation.png)](https://rstudio.github.io/cheatsheets/html/data-transformation.html)
+DPLYR is used to
 ### TIDYR ✒️
 [![TIDYR cheat sheet](https://rstudio.github.io/cheatsheets/pngs/tidyr.png)](https://rstudio.github.io/cheatsheets/html/tidyr.html)
 ### FORCATS 😻
@@ -51,3 +53,4 @@ When working with most types of data these 4 packages will let you wrangle all y
     - [![Pivot longer](https://epirhandbook.com/en/images/pivoting/pivot_longer_new.png)](https://epirhandbook.com/en/pivoting-data.html#wide-to-long)
     - [![Pivot wider](https://epirhandbook.com/en/images/pivoting/pivot_wider_new.png)](https://epirhandbook.com/en/pivoting-data.html#long-to-wide)
   - [Data Journalism with R - Storybench tidyr pivoting](https://www.rpubs.com/mjfrigaard/pivoting) (💬 quite complicated)
+
