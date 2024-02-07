@@ -4,15 +4,9 @@ subtitle: "NMBU R Club - Explainer"
 author: "Erik S. Røed"
 date: "`r Sys.Date()`"
 output:
-  html_document:
-    toc: true
-    toc_depth: 4
-    code_folding: "show"
-    highlight: "breezedark"
-    theme: "spacelab"
+  md_document:
+    variant: gfm
 ---
-
-<style> body { text-align: justify } </style>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -93,8 +87,8 @@ letters_lowercase <- data.frame(
 ```
 
 ```{r display_upper_and__lower, echo = FALSE}
-kable(letters_uppercase, caption = "letters_uppercase", align = "l") |> kable_minimal()
-kable(letters_lowercase, caption = "letters_lowercase", align = "l") |> kable_minimal()
+letters_uppercase
+letters_lowercase
 ```
 
 #### Combining the tables
@@ -112,7 +106,7 @@ letters <- merge(
 ```
 
 ```{r display_letters, echo = FALSE}
-kable(letters, caption = "letters", align = "l") |> kable_minimal()
+letters
 ```
 
 #### Finding the problem
@@ -133,7 +127,7 @@ words <- data.frame(
 ```
 
 ```{r display_words, echo = FALSE}
-kable(words, caption = "words", align = "l") |> kable_minimal()
+words
 ```
 
 Okay, now we want to bind these words to the table with letters!
@@ -147,7 +141,7 @@ letters_and_words <- merge(
 ```
 
 ```{r display_letters_words, echo = FALSE}
-kable(letters_and_words, caption = "letters_and_words", align = "l") |> kable_minimal()
+letters_and_words
 ```
 
 Well, that's not what we wanted. Now we only keep the letters 1/A/a and 3/C/c.
@@ -168,7 +162,7 @@ letters_and_words <- merge(
 ```
 
 ```{r display_letters_words_pt2, echo = FALSE}
-kable(letters_and_words, caption = "letters_and_words", align = "l") |> kable_minimal()
+letters_and_words
 ```
 
 Okay! This makes sense - but we can see what problem the student in R Club must
@@ -215,7 +209,7 @@ words <- cbind(
 ```
 
 ```{r display_pivot_wide_pt1, echo = FALSE}
-kable(words, caption = "words", align = "l") |> kable_minimal()
+words
 ```
 
 ```{r pivot_wide_pt2}
@@ -228,7 +222,7 @@ words <- tidyr::pivot_wider(
 ```
 
 ```{r display_pivot_wide_pt2, echo = FALSE}
-kable(words, caption = "words", align = "l") |> kable_minimal()
+words
 ```
 
 ```{r pivot_wide_pt3}
@@ -241,7 +235,7 @@ letters_and_words <- merge(
 ```
 
 ```{r display_pivot_wide_pt3, echo = FALSE}
-kable(letters_and_words, caption = "letters_and_words", align = "l") |> kable_minimal()
+letters_and_words
 ```
 
 #### Remove the duplicates
@@ -267,7 +261,7 @@ words <- dplyr::distinct(words, number, .keep_all = TRUE) #.keep_all columns
 ```
 
 ```{r display_distinct_pt1, echo = FALSE}
-kable(words, caption = "words", align = "l") |> kable_minimal()
+words
 ```
 
 #### Maybe it's okay to have duplicates?
