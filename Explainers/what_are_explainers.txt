@@ -1,0 +1,1 @@
+Explainers are R Markdown documents dealing with topics from R Club that we think are useful to go over in a bit more detail and with more thorough examples than we can produce on the spot in R Club!
