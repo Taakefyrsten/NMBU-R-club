@@ -40,7 +40,6 @@ The R-club is held every wednesday from 12:00 - 14:00 at Sørhellinga [(S124)](h
 When working with most types of data these 4 packages will let you wrangle all your data into workable formats.
 ### DPLYR 🔧
 [![DPLYR cheat sheet](https://rstudio.github.io/cheatsheets/pngs/data-transformation.png)](https://rstudio.github.io/cheatsheets/html/data-transformation.html)
-DPLYR is used to
 ### TIDYR ✒️
 [![TIDYR cheat sheet](https://rstudio.github.io/cheatsheets/pngs/tidyr.png)](https://rstudio.github.io/cheatsheets/html/tidyr.html)
 ### FORCATS 😻
