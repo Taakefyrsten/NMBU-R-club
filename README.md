@@ -2,7 +2,7 @@
 This is the open repository of the NMBU R-club. A space to collect resources related to instructing students in R and other content related to the R-club project.
 The R-club is held every wednesday from 12:00 - 14:00 at Sørhellinga (starting on the 18th sept) [(S124)](https://link.mazemap.com/CJaxy0tw)
 
-### [🎉The new R-club issue tracker can be found here! Add your issues to the list.📜](https://forms.gle/mQKUt7KE2DjyY9ew6)
+### [🎉The new R-club issue tracker can be found here! Add your problem to the list.📜](https://forms.gle/mQKUt7KE2DjyY9ew6)
  
 ## R-club on other platforms
 - R-club on canvas (💬 not yet linked)
