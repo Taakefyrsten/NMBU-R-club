@@ -23,8 +23,11 @@ The R-club is held every wednesday from 12:00 - 14:00 at Sørhellinga (starting 
 - [R for Data Science](https://r4ds.had.co.nz/)
 
 ## Loading data
-- 🟥 Using R-studios integrated loader for excel and csv files
-- 🟥 Using code to load datasets
+When working in Rstudio, you can load your data files in your R sessions using different methods:
+- ### Using Rstudio built-in capabilities 👓 
+🟥 Using R-studios integrated loader for excel and csv files
+- ### Using R code 👩‍💻
+[![data loading cheat sheet](https://rstudio.github.io/cheatsheets/pngs/data-import.png)](https://rstudio.github.io/cheatsheets/html/data-import.html)
 
 ## Graphs in R
 - [R Graph gallery - Graphs grouped by type](https://r-graph-gallery.com/index.html)
@@ -32,7 +35,7 @@ The R-club is held every wednesday from 12:00 - 14:00 at Sørhellinga (starting 
 - [R Charts - Graphs grouped by use](https://r-charts.com/)
 - [R-coder - plotting with base R](https://r-coder.com/r-graphs/)   
 - GGplot specific
-  - [![ggplot cheat sheet](https://rstudio.github.io/cheatsheets/pngs/data-visualization.png)](https://rstudio.github.io/cheatsheets/html/data-visualization.html)
+[![ggplot cheat sheet](https://rstudio.github.io/cheatsheets/pngs/data-visualization.png)](https://rstudio.github.io/cheatsheets/html/data-visualization.html)
   - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html)
 - [Colors in R](https://rpubs.com/kylewbrown/r-colors)
 - 🟥 Exporting graphs
