@@ -26,7 +26,7 @@ The R-club is held every wednesday from 12:00 - 14:00 at Sørhellinga (starting 
 When working in Rstudio, you can load your data files in your R sessions using different methods:
 - ### Using Rstudio built-in capabilities 👓 
 🟥 Using R-studios integrated loader for excel and csv files
-- ### Using R code (Readr Package) 👩‍💻
+- ### Using R code (Readr, Readxl, googlesheet4 packages) 👩‍💻
 [![data loading cheat sheet](https://rstudio.github.io/cheatsheets/pngs/data-import.png)](https://rstudio.github.io/cheatsheets/html/data-import.html)
 
 ## Graphs in R
