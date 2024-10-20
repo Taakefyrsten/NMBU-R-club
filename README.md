@@ -14,6 +14,7 @@ The R-club is held every wednesday from 12:00 - 14:00 at Sørhellinga (starting 
 ## Basic information on statistics
 - [Statlearning - Longer E-book on statistics](https://www.statlearning.com/)
 - [Fundamentals of data visualization](https://clauswilke.com/dataviz/)
+- [💪 Finding the correct statistical test, explination and implementation of said test(Flowchart)](https://statsandr.com/blog/what-statistical-test-should-i-do/)
 
 ## R cheat sheets
 - [LARGE set of cheat sheets collected by the people behind R-studio](https://rstudio.github.io/cheatsheets/) (💬 Several other resources in this collection are from here)
