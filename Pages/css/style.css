@@ -19,3 +19,22 @@ body {
     background-color: #333;
   }
 }
+
+/* Sections */
+.intro {
+  background-color: #184FA1;
+  padding: 20px;
+  color: black;
+}
+
+.resources {
+  background-color: #091F35;
+  padding: 20px;
+  color: white;
+}
+
+.outro {
+  background-color: black;
+  padding: 20px;
+  color: white;
+}
