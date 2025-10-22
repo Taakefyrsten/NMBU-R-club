@@ -87,7 +87,5 @@ When working with most types of data these 4 packages will let you wrangle all y
 
 ## Books on R
 - [Hands on programming with R](https://rstudio-education.github.io/hopr/)
-- [R for Data Science](https://r4ds.had.co.nz/)
-
-
-
+- [Modern R for Data Science](https://r4ds.hadley.nz/)
+- [Classic R for Data Science](https://r4ds.had.co.nz/)
