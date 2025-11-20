@@ -67,6 +67,7 @@ When working with most types of data these 4 packages will let you wrangle all y
 [![ggplot cheat sheet](https://rstudio.github.io/cheatsheets/pngs/data-visualization.png)](https://rstudio.github.io/cheatsheets/html/data-visualization.html)
   - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html)
 - [Colors in R](https://rpubs.com/kylewbrown/r-colors)
+- [Want to make a custom color schemes? Try Coolors](https://coolors.co/generate)
 - 🟥 Exporting graphs
 
 
