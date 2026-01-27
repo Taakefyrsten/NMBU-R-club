@@ -83,6 +83,9 @@ When working with most types of data these 4 packages will let you wrangle all y
 - [💪 Finding the correct statistical test, explination and implementation of said test(Flowchart)](https://statsandr.com/blog/what-statistical-test-should-i-do/)
 - [🏹 Ordination, explinations and tutorials](https://ourcodingclub.github.io/tutorials/ordination/)
 
+## Creating tables
+- [GT (Grammar of Tables) is the newest Tidyverse family member, and works like a ggplot for tables](https://gt.rstudio.com/)
+
 ## R cheat sheets
 - [LARGE set of cheat sheets collected by the people behind R-studio](https://rstudio.github.io/cheatsheets/) (💬 Several other resources in this collection are from here)
 
